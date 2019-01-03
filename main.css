@@ -1,0 +1,34 @@
+.card
+{
+    border:1px solid #000;
+    width: 160px;
+    height: 200px;
+    display: inline-block;
+    margin: 1rem;
+}
+
+.top
+{
+    position: absolute;
+    margin: 0;
+    font-size: xx-large;
+}
+
+.bottom
+{
+    position: absolute;
+    margin: 122px 0px 0px 117px;
+    font-size: xx-large;
+    transform: rotate(180deg);
+}
+
+.suit
+{
+    margin: 0 0 0px 5px;
+}
+
+.number
+{
+    position: absolute;
+    margin: 0 0 0 10px;
+}
